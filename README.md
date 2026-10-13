@@ -1,5 +1,7 @@
 # Smart Budget Nutrition Assistant for Interns
 
+Link video demo: https://youtube.com/watch?v=208ZgECffRY&si=oKbRQjPxmxpJBkBX
+
 An agentic Python tool that stops interns from eating instant noodles for every meal. It detects where you are, looks up **real, current** local grocery prices using Gemini's Google Search grounding, and generates a structured 7-day meal plan that actually fits your weekly budget.
 
 ```
